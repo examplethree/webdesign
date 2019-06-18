@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My first html</title>
+</head>
+<body>
+<h1> poems</h1>
+<p><a href="http://www.baidu.com">this is a link</a></p>
+<h2> pictures</h2>
+<p><img src="cat.jpg" width="104" height="142"/></p>
+
+</body>
+</html>
